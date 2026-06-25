@@ -1,0 +1,6 @@
+{
+  "name": "CRM Proteção Veicular",
+  "description": "CRM SaaS para gestão comercial e financeira de proteção veicular com Kanban, Vendas, Agendamentos e Relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
